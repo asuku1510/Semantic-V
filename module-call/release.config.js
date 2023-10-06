@@ -1,6 +1,6 @@
 module.exports = {
-    branches: "dev",
-    repositoryUrl: "https://github.com/asuku1510/Austin.git",
+    branches: "main",
+    repositoryUrl: "https://github.com/asuku1510/Semantic-V.git",
     plugins: [
       '@semantic-release/commit-analyzer',
       '@semantic-release/release-notes-generator',
